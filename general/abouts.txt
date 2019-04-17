@@ -2,4 +2,4 @@
 //Resolution - 1920x1080
 //Mouse - DPI - 900 | Windows Pointer Speed - 6/11 |
 //Launch Options: 
-// +exec _senpi0s -noaafonts -language senpi0 -nod3d9ex1 -dxlevel 95 -nosteamcontroller -nojoy -novid -sw -noborder  -w 1920 -h 1080 -refresh 61 -freq 61 -tickrate 128 -console -threads 8
+// +exec _senpi0s -noaafonts -language senpi0 -nod3d9ex1 -dxlevel 95 -nosteamcontroller -nojoy -novid -sw -noborder  -w 1920 -h 1080 -refresh 61 -freq 61 -console -threads 8
